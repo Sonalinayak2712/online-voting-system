@@ -1,4 +1,5 @@
 # online-voting-system
-This is a voting system application 
+This is a online voting system application.
 
-please like this:)
+
+
